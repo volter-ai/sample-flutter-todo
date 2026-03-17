@@ -1,5 +1,5 @@
-name: flutter_clicker
-description: A simple Flutter clicker app
+name: flutter_todo
+description: A Flutter todo list application
 publish_to: 'none'
 version: 1.0.0+1
 

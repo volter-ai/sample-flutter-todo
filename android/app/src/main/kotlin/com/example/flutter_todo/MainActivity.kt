@@ -1,4 +1,4 @@
-package com.example.flutter_clicker
+package com.example.flutter_todo
 
 import io.flutter.embedding.android.FlutterActivity
 
